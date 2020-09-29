@@ -12,6 +12,10 @@ Also when moving the program around, also move config.json file along with it an
 
 If you wish to uninstall the program, just delete the program and delete the shortcut located in the startup folder along with config.json file
 
+To do this, you will first need to go into your config.json file which can be edited through notepad and will need to replace "0" with "1" beside "breakPR"
+
+More info located inside the config.json file
+
 
 ***THIS PROGRAM ONLY WORKS ON WINDOWS*** Tested only on windows 10
 
@@ -30,7 +34,7 @@ Then the loop will repeat
 
 *I might also intergrate and auto-accepter in later version as an option*
 
-# **JSON FILE INCLUDED IN THE ZIP (config.json)**
+**JSON FILE INCLUDED IN THE ZIP (config.json)**
 
 DO NOT DELETE, TAMPER WITH, RELOCATE INDIVIUALLY, OR RENAME as you will lose the option to toggle on or off the rune reminder in ease
 and will lose the ability to change between the different selection of audio. KEEP config.json IN THE SAME LOCATION AS THE .EXE PROGRAM
