@@ -34,9 +34,11 @@ Then the loop will repeat
 
 *I might also intergrate and auto-accepter in later version as an option*
 
-**JSON FILE INCLUDED IN THE ZIP (config.json)**
+**JSON FILE INCLUDED IN THE ZIP (config.json) ONLY FOR VERSIONS ABOVE BUILD 1.2**
 
 DO NOT DELETE, TAMPER WITH, RELOCATE INDIVIUALLY, OR RENAME as you will lose the option to toggle on or off the rune reminder in ease
 and will lose the ability to change between the different selection of audio. KEEP config.json IN THE SAME LOCATION AS THE .EXE PROGRAM
+
+FOR VERSION 1.0 AND 1.1 you will need to go into task manager (CTRL + SHIFT + ESC), SCROLL DOWN AND END PROCESSES WHEN YOU SEE ANY OCCURENCE OF THE SPECFIC .EXE
 
 CREATED BY TRISTAN (CASHMEREBUFFALO)
