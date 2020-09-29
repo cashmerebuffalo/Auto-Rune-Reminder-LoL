@@ -1,4 +1,4 @@
-# Auto-Rune-Reminder-LoL
+# League Rune Reminder LoL
 
 ** IMPORTANT **
 
