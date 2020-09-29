@@ -8,9 +8,10 @@ Just double clicking will run the program, the official release and onwards will
 
 If you were to move the program around, please double click the .exe file after you placed it in a new destination, this will then update the target of your shortcut.
 
-If you wish to uninstall the program, just delete the program and delete the shortcut located in the startup folder
+Also when moving the program around, also move config.json file along with it and keep it in the SAME folder as the .exe
 
-Created by Tristan
+If you wish to uninstall the program, just delete the program and delete the shortcut located in the startup folder along with config.json file
+
 
 ***THIS PROGRAM ONLY WORKS ON WINDOWS*** Tested only on windows 10
 
@@ -28,3 +29,10 @@ When in champ select, on loadout screen (right after picking champs) it will war
 Then the loop will repeat
 
 *I might also intergrate and auto-accepter in later version as an option*
+
+# **JSON FILE INCLUDED IN THE ZIP (config.json)**
+
+DO NOT DELETE, TAMPER WITH, RELOCATE INDIVIUALLY, OR RENAME as you will lose the option to toggle on or off the rune reminder in ease
+and will lose the ability to change between the different selection of audio. KEEP config.json IN THE SAME LOCATION AS THE .EXE PROGRAM
+
+CREATED BY TRISTAN (CASHMEREBUFFALO)
