@@ -9,3 +9,5 @@ If you were to move the program around, please double click the .exe file after 
 If you wish to uninstall the program, just delete the program and delete the shortcut located in the startup folder
 
 Created by Tristan
+
+***THIS PROGRAM ONLY WORKS ON WINDOWS*** Tested only on windows 10
