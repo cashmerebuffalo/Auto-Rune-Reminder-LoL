@@ -41,4 +41,6 @@ and will lose the ability to change between the different selection of audio. KE
 
 FOR VERSION 1.0 AND 1.1 you will need to go into task manager (CTRL + SHIFT + ESC), SCROLL DOWN AND END PROCESSES WHEN YOU SEE ANY OCCURENCE OF THE SPECFIC .EXE
 
+You may also add custom .mp3 files by placing the audio file in the same location as the .exe file and stating it in the json file (more info within the json file)
+
 CREATED BY TRISTAN (CASHMEREBUFFALO)
