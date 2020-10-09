@@ -12,10 +12,7 @@ Also when moving the program around, also move config.json file along with it an
 
 If you wish to uninstall the program, just delete the program and delete the shortcut located in the startup folder along with config.json file
 
-To do this, you will first need to go into your config.json file which can be edited through notepad and will need to replace "0" with "1" beside "breakPR"
-
-More info located inside the config.json file
-
+To do this, you will first need to go into settings.exe and press down on Break Program and pressing save. This will stop the program from running and allow you to uninstall
 
 ***THIS PROGRAM ONLY WORKS ON WINDOWS*** Tested only on windows 10
 
@@ -34,13 +31,13 @@ Then the loop will repeat
 
 *I might also intergrate and auto-accepter in later version as an option*
 
-**JSON FILE INCLUDED IN THE ZIP (config.json) ONLY FOR VERSIONS ABOVE BUILD 1.2**
+**SETTINGS**
 
-DO NOT DELETE, TAMPER WITH, RELOCATE INDIVIUALLY, OR RENAME as you will lose the option to toggle on or off the rune reminder in ease
-and will lose the ability to change between the different selection of audio. KEEP config.json IN THE SAME LOCATION AS THE .EXE PROGRAM
+This program also comes with a program called settings.exe which is a new graphic user interface to help streamline your settings (Changes were done directly to config.json in version before v1.4 which wasnt very user friendly)
+If in need of help of any of the functionalities, please visit the help section on the top left corner in settings.exe under the file section
 
-FOR VERSION 1.0 AND 1.1 you will need to go into task manager (CTRL + SHIFT + ESC), SCROLL DOWN AND END PROCESSES WHEN YOU SEE ANY OCCURENCE OF THE SPECFIC .EXE
+SETTINGS.EXE IS NOT BACKWARDS COMPATIBLE WITH ANY VERSIONS UNDER V1.4 PLEASE REFER TO THE COMMENTS WITHIN THE CONFIG.JSON FILE FOR 1.3 AND BELOW (edit through notepad)
 
-You may also add custom .mp3 files by placing the audio file in the same location as the .exe file and stating it in the json file (more info within the json file)
+DO NOT DELETE, TAMPER WITH, RELOCATE INDIVIUALLY, OR RENAME config.json file as you will lose your current settings
 
 CREATED BY TRISTAN (CASHMEREBUFFALO)
