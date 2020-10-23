@@ -8,11 +8,9 @@ Just double clicking will run the program, the official release and onwards will
 
 If you were to move the program around, please double click the .exe file after you placed it in a new destination, this will then update the target of your shortcut.
 
-Also when moving the program around, also move config.json file along with it and keep it in the SAME folder as the .exe
+Also when moving the program around, keep everything that was included in the download folder together (config.json, settings.exe, uninstaller.exe, readme.txt)
 
-If you wish to uninstall the program, just delete the program and delete the shortcut located in the startup folder along with config.json file
-
-To do this, you will first need to go into settings.exe and press down on Break Program and pressing save. This will stop the program from running and allow you to uninstall
+If you wish to uninstall, just run the uninstall.exe and follow the instructions provided there.
 
 ***THIS PROGRAM ONLY WORKS ON WINDOWS*** Tested only on windows 10
 
@@ -39,5 +37,19 @@ If in need of help of any of the functionalities, please visit the help section 
 SETTINGS.EXE IS NOT BACKWARDS COMPATIBLE WITH ANY VERSIONS UNDER V1.4 PLEASE REFER TO THE COMMENTS WITHIN THE CONFIG.JSON FILE FOR 1.3 AND BELOW (edit through notepad)
 
 DO NOT DELETE, TAMPER WITH, RELOCATE INDIVIUALLY, OR RENAME config.json file as you will lose your current settings
+
+**UNINSTALLER.EXE**
+
+This program is not compatible with any version but the one downloaded with it. Changing the names of any of the files provided on download would cause the program to not uninstall that file.
+
+**RESTORING FILES**
+
+If you wish to restore files here are some instructions:
+
+To restore README.txt, simply run settings.exe and under file on the top left of the program, there is an option to restore README.txt
+
+To restore config.json, simply run either AutoRuneReminder or settings.exe to restore file
+
+To restore any other file will require you to redownload the file from the github page 
 
 CREATED BY TRISTAN (CASHMEREBUFFALO)
