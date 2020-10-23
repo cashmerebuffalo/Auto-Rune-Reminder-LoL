@@ -52,4 +52,5 @@ To restore config.json, simply run either AutoRuneReminder or settings.exe to re
 
 To restore any other file will require you to redownload the file from the github page 
 
+
 CREATED BY TRISTAN (CASHMEREBUFFALO)
