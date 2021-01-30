@@ -1,16 +1,13 @@
 # League Rune Reminder LoL
 
-** IMPORTANT **
+*These instructions refer to the latest release*
 
-On first download, please double-click on the AutoRuneReminder program to open it. This is a one time occurence. After this, the program will automatically open on startup and will run as intended.
+**Installation**
 
-Just double clicking will run the program, the official release and onwards will not open and display a terminal screen but will run in your background
+Once you download the setup.exe in latest release, run the program and choose from the options provided. Once you are complete, proceed to click install and wait for installation to be complete. 
+**THE PROGRAM MIGHT SAY IT IS NOT RESPONDING. PLEASE IGNORE THAT AND WAIT PATIENTLY**
 
-If you were to move the program around, please double click the .exe file after you placed it in a new destination, this will then update the target of your shortcut.
-
-Also when moving the program around, keep everything that was included in the download folder together (config.json, settings.exe, uninstaller.exe, readme.txt)
-
-If you wish to uninstall, just run the uninstall.exe and follow the instructions provided there.
+When installation is complete you have an option to run the program. Otherwise double-clicking and running the Rune Reminder shortcut provided in the same directory as setup.exe or in the start menu will work too. 
 
 ***THIS PROGRAM ONLY WORKS ON WINDOWS*** Tested only on windows 10
 
